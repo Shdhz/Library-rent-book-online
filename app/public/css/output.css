@@ -1451,11 +1451,6 @@ video {
   color: rgb(21 128 61 / var(--tw-text-opacity));
 }
 
-.text-orange-500 {
-  --tw-text-opacity: 1;
-  color: rgb(249 115 22 / var(--tw-text-opacity));
-}
-
 .text-p_font {
   --tw-text-opacity: 1;
   color: rgb(27 24 24 / var(--tw-text-opacity));
