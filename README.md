@@ -34,4 +34,8 @@ Project status: **Finished**<br>
 - borrow a book <br>
 - return a book <br>
 - book loan renewal <br>
+<<<<<<< HEAD
 - login and registration
+=======
+- login and registration
+>>>>>>> 12e046cbb503cb12d9e79c231bf600a0a579b567
